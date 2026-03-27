@@ -10,6 +10,11 @@
                     <h1 class="text-3xl font-bold">Welcome to Chirper!</h1>
                     <p class="mt-4 text-base-content/60">This is your brand new Laravel application. Time to make it
                         sing (or chirp)!</p>
+                    <p class="mt-2 text-sm text-gray-600"> Ahora vive dentro de Internet!!</p>
+                    <div class="mt-6 flex gap-2">
+                        <a href="#" class="btn btn-primary">Sign In</a>
+                        <a href="#" class="btn btn-ghost">Sign Up</a>
+                    </div>
                 </div>
             </div>
         </div>
